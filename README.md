@@ -2,7 +2,7 @@
 
 Please cite the following work if you use the software provided here in your research
 - Yiu, L., Basty, N., Whitcher, B., Bell, J.D., Sorokin, E., van Bruggen, N., Thomas, E.L., Cule, M.  Genetic 
-architecture of 11 abdominal organ traits derived from abdominal MRI using deep learning, 2021, _eLife_, in print.
+architecture of 11 abdominal organ traits derived from abdominal MRI using deep learning, 2021, _eLife_, **10**, [DOI: 10.7554/eLife.65554][elife].
 
 ## Installation
 
@@ -153,4 +153,4 @@ The estimated PDFF (%) for the pancreas GRE data:
 [fire]: https://google.github.io/python-fire
 [dcmstack]: https://github.com/moloney/dcmstack
 [pdff]: https://github.com/marcsous/pdff
- 
+[elife]: https://doi.org/10.7554/eLife.65554
